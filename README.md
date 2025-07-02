@@ -1,7 +1,7 @@
 # Power BI Data Jobs Dashboard
 ## Introduction
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+This dashboard was created for the **Job Seekers** to solve a common problem: finding the information about the data job market. Using a real-world dataset of 2024 data science job postings (with job_titles, salaries, and locations), this project provides a easy-to-use interface to explore the current market trends .
 
 ### Dashboard File
 You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
@@ -15,13 +15,13 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 
 ![Data Jobs Dashboard Page 1](/Screenshot%202025-07-02%20233557.png)  
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This is the main dashboard. It showcases key KPIs like total job count, median salaries, and top job titles to give a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
 ![Data Jobs Dashboard Page 2](/Screenshot%202025-07-02%20233632.png)  
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+From the main dashboard, a drill through is added to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
 ---
 
