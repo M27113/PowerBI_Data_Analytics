@@ -13,13 +13,13 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](/Screenshot%202025-07-02%20233557.png)  
+![Data Jobs Dashboard Page 1](/image1.png)  
 
 This is the main dashboard. It showcases key KPIs like total job count, median salaries, and top job titles to give a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](/Screenshot%202025-07-02%20233632.png)  
+![Data Jobs Dashboard Page 2](/image2.png)  
 
 From the main dashboard, a drill through is added to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
